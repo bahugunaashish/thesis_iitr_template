@@ -1,2 +1,2 @@
 # thesis_iitr_template
-LaTex Template of PhD thesis of IIT Roorkee 
+LaTex Template for PhD thesis of IIT Roorkee 
