@@ -1,0 +1,85 @@
+\contentsline {chapter}{Abstract}{vii}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{xii}{section*.5}%
+\contentsline {chapter}{List of Tables}{xiv}{section*.6}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Seismotectonic Setting of Indian Plate}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Overview of The Thesis}{3}{section.1.3}%
+\contentsline {chapter}{\numberline {2}\textbf {Literature Reviews and Research Gaps}}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Background}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}History of Model Development}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Inter--plate Modeling}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}State of tectonic stress and current models}{12}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Study Area}{13}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Research Gaps}{14}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Objectives}{15}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Scope of the Research}{15}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Methodology}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Background}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Numerical Method}{19}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Finite Element Method (FEM)}{20}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Rheological Models of Rock}{21}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Elastic Rheology}{21}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Elasto-Plastic Rheology}{22}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Visco-Elastic Rheology}{22}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Interface Modelling}{23}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Hard Contact}{23}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Master-Slave Method}{23}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Frictional Formulation}{24}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Coulomb Friction Model}{24}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Driving Forces of Plate Motion}{25}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Mantle Drag $(F_{DF})$}{25}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Ridge Push $(F_{R})$}{25}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Slab Pull $(F_{SP})$ and Slab Resistance $(F_{SR})$}{26}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Colliding Resistance $(F_{CR})$}{26}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Transform Fault Resistance $(F_{TF})$}{26}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.6}Suction Force$(F_{SU})$}{27}{subsection.3.6.6}%
+\contentsline {chapter}{\numberline {4}Data Collection}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Background}{29}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Alluvium Region}{29}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Aravali fold Belt}{31}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Western Himalayas}{31}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Meghalaya Region}{31}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Burmese Region}{31}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Northeast Indian Province}{33}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Eastern Ghat Region}{33}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.8}Chotanagpur Region}{33}{subsection.4.1.8}%
+\contentsline {subsection}{\numberline {4.1.9}Bengal Basin Region}{33}{subsection.4.1.9}%
+\contentsline {subsection}{\numberline {4.1.10}Singhbhum Craton}{33}{subsection.4.1.10}%
+\contentsline {subsection}{\numberline {4.1.11}Dharwar Region}{33}{subsection.4.1.11}%
+\contentsline {subsection}{\numberline {4.1.12}Southern Granulite Region}{34}{subsection.4.1.12}%
+\contentsline {subsection}{\numberline {4.1.13}Saurashtra Region}{34}{subsection.4.1.13}%
+\contentsline {subsection}{\numberline {4.1.14}Deccan Trap Rocks}{34}{subsection.4.1.14}%
+\contentsline {subsection}{\numberline {4.1.15}Bundelkhand Province}{34}{subsection.4.1.15}%
+\contentsline {subsection}{\numberline {4.1.16}Satpura Region}{43}{subsection.4.1.16}%
+\contentsline {subsection}{\numberline {4.1.17}Bastar Province}{43}{subsection.4.1.17}%
+\contentsline {chapter}{\numberline {5}Three Dimensional Finite Element Model of Indian Tectonic Plate}{53}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{53}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Geological, Tectonic setting and Material Properties}{56}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}The Himalayan Region}{56}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Alluvium Region}{57}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}BGC and Aravali-Fold (AFB) Province}{57}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Bundelkhand Province}{57}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Satpura Region}{57}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Meghalaya and Northeast Region}{63}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Burmese Region}{63}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Singhbhum Craton (SC)}{63}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}Chotanagpur Region}{63}{subsection.5.2.9}%
+\contentsline {subsection}{\numberline {5.2.10}Eastern Ghats Belt (EGB)}{64}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}Bengal Basin}{64}{subsection.5.2.11}%
+\contentsline {subsection}{\numberline {5.2.12}Southern Granulite Region (SGR)}{64}{subsection.5.2.12}%
+\contentsline {subsection}{\numberline {5.2.13}Dharwar Craton (DC)}{64}{subsection.5.2.13}%
+\contentsline {subsection}{\numberline {5.2.14}Saurashtra Region}{65}{subsection.5.2.14}%
+\contentsline {subsection}{\numberline {5.2.15}Deccan Trap Rocks}{65}{subsection.5.2.15}%
+\contentsline {section}{\numberline {5.3}Finite Element Modelling of Indian Plate}{65}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Linear Elastic Constitutive Model}{67}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Boundary Conditions and Tectonic Forces}{67}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Results and Discussion}{69}{subsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.3.1}Validation of Models}{69}{subsubsection.5.3.3.1}%
+\contentsline {chapter}{\numberline {6}Effect of Rhelogy and Fault Geomtery on Intraplate Stress Distribution of Indian Tectonic Plate}{71}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Background}{71}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Model Description}{71}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Constitutive Models}{72}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Conclusions and Summary}{75}{chapter.7}%
+\contentsline {chapter}{References}{77}{chapter*.65}%
+\contentsfinish 

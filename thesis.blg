@@ -1,0 +1,120 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: prelim/title.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: prelim/copyright.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: prelim/declaration.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: prelim/acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: prelim/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: prelim/dedication.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp1.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp2.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp3.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp4.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp5.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp6.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: mainpage/chp7.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: mainpage/listofpub.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: apa-good.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+A level-1 auxiliary file: bu.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+Reallocating 'field_info' (item size: 4) to 10280 items.
+Database file #1: mybib.bib
+Reallocating 'buffer' (item size: 1) to 40000 items.
+Reallocating 'ex_buf' (item size: 1) to 40000 items.
+Reallocating 'name_sep_char' (item size: 1) to 40000 items.
+Reallocating 'name_tok' (item size: 4) to 40000 items.
+Reallocating 'out_buf' (item size: 1) to 40000 items.
+Reallocating 'sv_buffer' (item size: 1) to 40000 items.
+Reallocating 'buffer' (item size: 1) to 60000 items.
+Reallocating 'ex_buf' (item size: 1) to 60000 items.
+Reallocating 'name_sep_char' (item size: 1) to 60000 items.
+Reallocating 'name_tok' (item size: 4) to 60000 items.
+Reallocating 'out_buf' (item size: 1) to 60000 items.
+Reallocating 'sv_buffer' (item size: 1) to 60000 items.
+Reallocating 'buffer' (item size: 1) to 80000 items.
+Reallocating 'ex_buf' (item size: 1) to 80000 items.
+Reallocating 'name_sep_char' (item size: 1) to 80000 items.
+Reallocating 'name_tok' (item size: 4) to 80000 items.
+Reallocating 'out_buf' (item size: 1) to 80000 items.
+Reallocating 'sv_buffer' (item size: 1) to 80000 items.
+I was expecting a `,' or a `}'---line 10978 of file mybib.bib
+ : @article{BIS1893(Part 
+ :                       1),
+I'm skipping whatever remains of this entry
+Repeated entry---line 11062 of file mybib.bib
+ : @article{demets2010geologically
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "NDMA2009" isn't style-file defined
+--line 11092 of file mybib.bib
+Name 1 in "Gupta, A., and Basu, A." has a comma at the end for entry gupta2000
+while executing---line 1401 of file apa-good.bst
+Name 1 in "Gupta, A., and Basu, A." has a comma at the end for entry gupta2000
+while executing---line 1401 of file apa-good.bst
+Warning--empty journal in gansser1964geology
+Name 1 in "Gupta, A., and Basu, A." has a comma at the end for entry gupta2000
+while executing---line 1474 of file apa-good.bst
+Name 1 in "Gupta, A., and Basu, A." has a comma at the end for entry gupta2000
+while executing---line 1474 of file apa-good.bst
+Warning--missing publisher in Kayal2008
+Warning--can't use both volume and number fields in keondzhyan1980concentration
+Warning--there's a number but no volume in valdiya2010
+You've used 220 entries,
+            2804 wiz_defined-function locations,
+            1909 strings with 45608 characters,
+and the built_in function-call counts, 137287 in all, are:
+= -- 11023
+> -- 5943
+< -- 123
++ -- 2274
+- -- 2004
+* -- 11136
+:= -- 21179
+add.period$ -- 658
+call.type$ -- 220
+change.case$ -- 1760
+chr.to.int$ -- 214
+cite$ -- 224
+duplicate$ -- 9872
+empty$ -- 10009
+format.name$ -- 2662
+if$ -- 26341
+int.to.chr$ -- 7
+int.to.str$ -- 1
+missing$ -- 2161
+newline$ -- 1123
+num.names$ -- 880
+pop$ -- 3743
+preamble$ -- 1
+purify$ -- 1543
+quote$ -- 0
+skip$ -- 3293
+stack$ -- 0
+substring$ -- 7215
+swap$ -- 5786
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1959
+warning$ -- 4
+while$ -- 1047
+width$ -- 0
+write$ -- 2870
+(There were 6 error messages)

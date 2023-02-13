@@ -1,0 +1,61 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces \centering World seismicity map ($1900-2019$) and plate boundaries (after, \citet {Bird2003}) (Earthquake data obtained from USGS and\nobreakspace {}\citet {NDMA2009}).\relax }}{2}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \centering Great and Major earthquakes recorded worldwide (Earthquake data USGS and \citet {NDMA2009}).\relax }}{3}{figure.caption.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Study Area and adjoining regions\relax }}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \centering Seismotectonic map\nobreakspace {}\citet {geological2000seismotectonic}, the topographic features and seismicity (1900--2019) of the Indian plate is also plotted. Black arrows are showing the GPS velocity reported by\nobreakspace {}\citet {Jade2017}.\relax }}{14}{figure.caption.11}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Flowchart of Methodology\relax }}{20}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Eight node brick element used for modelling\relax }}{21}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \centering Typical stress-strain curve for Elastic perfectly plastic behaviour considered for the Lithosphere\relax }}{22}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces (a) Kelvin body (b) Maxwell body\relax }}{23}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Master and slave interface concept\relax }}{24}{figure.caption.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \centering Geological map of India after GSI\relax }}{30}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \centering DSS profiles and seismological stations for the various geological region of the Indian subcontinent.\relax }}{31}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \centering Density Profile 1 of the Alluvium region in the Eastern Peninsular (Modified after\nobreakspace {}\citet {Behera2004})\relax }}{32}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \centering Density Profile 2 Alluvium region in the Eastern Peninsular (Modified after\nobreakspace {}\citet {Behera2004})\relax }}{32}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \centering Density Profile 3 of the Alluvium region in western India (Modified after\nobreakspace {}\citet {Kilaru2013})\relax }}{32}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces \centering Elastic properties of the Alluvium Region (adopted from \citet {Borah2015}){\textbf {(a)} Shear wave velocity}{\textbf {(b)} ratio of $V_p/V_s$ ratio}\relax }}{33}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \centering Density model of Delhi Fold Belt Profile (modified after\nobreakspace {}\citet {Dwivedi2019}).\relax }}{34}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \centering Density model of Delhi Fold Belt Profile (modified after\nobreakspace {}\citet {Dwivedi2019}).\relax }}{34}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath Delhi--Fold Belt (after \nobreakspace {}\citet {Julia2009,satyavani2001crustal}).\relax }}{35}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath BGC (after\nobreakspace {}\citet {Julia2009,Krishna2011})\relax }}{36}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces \centering Density Profile 1 of the Western Himalayan Region (after\nobreakspace {}\citet {bhukta2006crustal})\relax }}{36}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces \centering Density profile 2 of the Western Himalayan Region (after\nobreakspace {}\citet {subrata2007crustal})\relax }}{37}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces \centering Shear velocity ($V_s$) and $V_p/V_s$. Ratio beneath ----- (After \nobreakspace {}\citet {Li2009,bhukta2006crustal}) \relax }}{37}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces \centering Density Profile along Meghalaya and Bengal Basin Region (after\nobreakspace {}\citet {Rajasekhar2008} ).\relax }}{38}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath Shillong (after\nobreakspace {}\citet {Borah2016}).\relax }}{38}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces \centering Density Profile along Meghalaya and Burmese Region Profile (after\nobreakspace {}\citet {ch2020high}).\relax }}{39}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Burmese Region (after\nobreakspace {}\citet {saikia2019appraisal})\relax }}{39}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces \centering Density Profile beneath Northeast Province Region (after\nobreakspace {}\citet {ch2020high})\relax }}{40}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Northeast Province (after\nobreakspace {}\citet {saikia2019appraisal,Mitra2018})\relax }}{40}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces \centering Density Profile of Eastern Ghats Belt in N--S direction (after\nobreakspace {}\citet {Mandal2014})\relax }}{41}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Eastern Ghats Region (after\nobreakspace {}\citet {Mandal2016}).\relax }}{41}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces \centering Density Profile along Chotanagpur and Bengal Basin (after\nobreakspace {}\citet {Rajasekhar2008}).\relax }}{42}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Chotanagpur Region (after\nobreakspace {}\citet {Mandal2016}).\relax }}{42}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Bengal Basin Region (After \nobreakspace {}\citet {Singh2016}).\relax }}{43}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Singhbhum craton (After \nobreakspace {}\citet {Mandal2016}).\relax }}{44}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces \centering Density Profile of Dharwar Region (modified after\nobreakspace {}\citet {Singh2004}).\relax }}{44}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Dharwar Region (after\nobreakspace {}\citet {Borah2014}).\relax }}{45}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces \centering Density Profile of the Southern Granulite Region (modified after\nobreakspace {}\citet {Rao2006}).\relax }}{45}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces \centering Density Profile of the Southern Granulite Region (modified after\nobreakspace {}\citet {Singh2006}).\relax }}{46}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Southern Granulite Region (after\nobreakspace {}\citet {Pathak2006} and\nobreakspace {}\citet {Singh2006}).\relax }}{46}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces \centering Density Profile of the Saurashtra Region (modified After \nobreakspace {}\citet {SuryaPrakasaRao2005}).\relax }}{47}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Saurashtra Region (after\nobreakspace {}\citet {Mandal2006}).\relax }}{47}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces \centering Density Profile of the Deccan Trap Rocks (modified after\nobreakspace {}\citet {Tiwari2001}).\relax }}{48}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Deccan Trap Rocks (after\nobreakspace {}\citet {Kumar2020}).\relax }}{48}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces \centering Density Profile of Bundelkhand and Satpura Region (modified after\nobreakspace {}\citet {Murty2004}).\relax }}{49}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Bundelkhand region (after\nobreakspace {}\citet {Murty2004} and \nobreakspace {}\citet {Julia2009}).\relax }}{49}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.37}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Satpura region (After \nobreakspace {}\citet {Kumar2015}).\relax }}{50}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.38}{\ignorespaces \centering Density Profile of Baster Region (modified after\nobreakspace {}\citet {NageswaraRao2011}).\relax }}{50}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.39}{\ignorespaces \centering Shear Velocity ($V_s$) and $V_p/V_s$. Ratio beneath of Baster Region (after\nobreakspace {}\citet {Singh2019} and\nobreakspace {}\citet {Kaila1990}).\relax }}{51}{figure.caption.55}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Representing the study Area and adjoining regions\relax }}{55}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces geological region\relax }}{56}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces FEM model\relax }}{66}{figure.caption.58}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces \centering seismicity (1900--2019) of the Indian plate and GPS velocity reported by \nobreakspace {}\citet {Jade2017}\relax }}{72}{figure.caption.61}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces \centering Location of DSS survey data (modified after\nobreakspace {}\citet {rao1976radioactive,Manglik1991})\relax }}{73}{figure.caption.63}%
+\addvspace {10\p@ }
+\contentsfinish 

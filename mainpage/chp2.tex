@@ -1,0 +1,37 @@
+\cleardoublepage
+\chapter{\textbf{Creating References, List of Abbreviation, List of Symbols }}\label{ch:chp2}
+\section{References and citation}
+	To create a reference/bibliography first you need to create a *.bib file in the main directory as mybib.bib file 
+ the content of this file should be in the form as shown below:
+ \begin{verbatim}
+ @article{bahuguna2022numerical,
+  title={Numerical simulation of seismic response of Slope--Foundation--Structure interaction for mid--rise RC buildings at various locations},
+  author={Bahuguna, Ashish and Firoj, Mohd},
+  booktitle={Structures},
+  volume={44},
+  pages={343--356},
+  year={2022},
+  organization={Elsevier}
+}
+ \end{verbatim}
+ To add the reference paper to the list the same should be in the bib file. after adding the particular citable paper in the bib file the paper can be cited in the text.
+ such as for the above article by 'Bahuguna' can be cited using the label given to the paper as 'bahuguna2022numerical' which is provided in the first line \verb|@article{bahuguna2022numerical|. To cite this paper in text \verb|\citet{bahuguna2022numerical}| is used which results as \citetbahuguna2022numerical}, whereas to cite in parentheses \verb|\citep{Hashimoto1984}| is used which results as \citep{bahuguna2022numerical}, as the paper cited in the text it should also reflect in the reference/bibliography list also. 
+%
+\section{List of Abbreviation}
+ To create an abbreviation list and use it  in the text 
+ \verb|\newacronym{acr:usgs}{USGS}{United|  
+ \verb|States Geological Survey}| is used, where in the first curly bracket label of the Abbreviation is written, in the second curly bracket display name is written, and in the third curly bracket full form of the abbreviation. it also creates a hyperlink.
+%
+ \newacronym{acr:usgs}{USGS}{United States Geological Survey}
+ %
+ 
+ To cite the abbreviation in the text \verb|\acrshort{acr:usgs}| command is used which uses the label of the abbreviation. which results as \acrshort{acr:usgs}. Once the abbreviation is cited in the text it will reflect in the List of Abbreviations.
+%
+\section{List of Symbols}
+to create list of symbols \verb|\nomenclature{}{}| command is used. where in the first bracket symbol is written, and in the second bracket description of the symbol is written. Such as
+\begin{verbatim}
+\nomenclature{$\nu$}{Poisson's ratio}
+\nomenclature{$E$}{Young’s modulus}
+\end{verbatim}
+ will show the symbol in the list of symbols.
+

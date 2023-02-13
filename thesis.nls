@@ -1,0 +1,27 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$\delta$}]\begingroup Thermal expansion coefficient\nomeqref {3.17}\nompageref{25}
+  \item [{$\epsilon$}]\begingroup Strain\nomeqref {3.1}\nompageref{21}
+  \item [{$\eta$}]\begingroup Viscosity\nomeqref {2.0}\nompageref{9}
+  \item [{$\Gamma_{eq}$}]\begingroup eqivalent slip rate\nomeqref {3.13}\nompageref{24}
+  \item [{$\mu$}]\begingroup Poisson's ratio\nomeqref {2.0}\nompageref{7}
+  \item [{$\mu_f$}]\begingroup friction coefficient\nomeqref {3.13}\nompageref{24}
+  \item [{$\sigma$}]\begingroup Stress\nomeqref {3.1}\nompageref{21}
+  \item [{$\tau$}]\begingroup Shear Stress\nomeqref {3.13}\nompageref{24}
+  \item [{$B_e$}]\begingroup width of the element\nomeqref {5.7}\nompageref{66}
+  \item [{$c_f$}]\begingroup viscosity coefficient\nomeqref {5.8}\nompageref{66}
+  \item [{$E$}]\begingroup Young’s modulus\nomeqref {2.0}\nompageref{7}
+  \item [{$h_L$}]\begingroup Thickness of Lithospher\nomeqref {3.16}\nompageref{25}
+  \item [{$H_m$}]\begingroup thickness of the upper mantle\nomeqref {5.8}\nompageref{66}
+  \item [{$h_{as}$}]\begingroup Thickness of Asthenospher\nomeqref {3.16}\nompageref{25}
+  \item [{$k_d$}]\begingroup Thermal diffusivity\nomeqref {3.17}\nompageref{25}
+  \item [{$P$}]\begingroup Contact Pressure\nomeqref {3.13}\nompageref{24}
+  \item [{$V$}]\begingroup velocity, (m/s)\nomeqref {3.0}\nompageref{19}
+  \item [{$V_p$}]\begingroup P-wave Velocity\nomeqref {2.0}\nompageref{9}
+  \item [{$V_s$}]\begingroup S-wave Velocity\nomeqref {2.0}\nompageref{9}
+  \item [{$x_0$}]\begingroup length of the element\nomeqref {5.7}\nompageref{66}
+  \item [{G}]\begingroup Rigidity\nomeqref {3.10}\nompageref{23}
+  \item [{t}]\begingroup Time\nomeqref {3.17}\nompageref{25}
+
+\end{thenomenclature}

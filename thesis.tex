@@ -1,0 +1,188 @@
+%**************************************************************************
+%   This Template is created by Dr. Ashish Bahuguna PhD Scholar,
+%               Department of Earthquake Engineering 
+%                   IIT Roorkee
+%
+
+%% document
+
+\documentclass[12pt,a4paper,twoside,openright]{report}
+%\setlength{\parskip}{3pt plus1pt minus1pt}
+            % ================== Packages ==========================
+\usepackage{mathpazo}
+%\usepackage{circuitikz}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{lipsum} % add random para to the section.
+%\usepackage{ulem}     % striking the text to show cut mark on text   %affect the referencing style
+%\usepackage{tikz}
+%\usetikzlibrary{shape, arrows}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{anyfontsize}
+%\usepackage[]{algorithm2e}
+%\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=red!30]
+%\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!30]
+%\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
+%\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=green!30]
+%\tikzstyle{arrow} = [thick,->,>=stealth]
+%\usepackage{ragged2e}
+\usepackage[font=small,labelfont={bf}]{caption}
+%\usepackage{background}
+%\usepackage{lipsum}
+%\usepackage{bibunits}
+\usepackage{bibentry} 
+\usepackage[font=small, labelformat=parens, labelfont= {bf}]{subcaption}
+%\usepackage{subfig, subfigure}
+\usepackage{sidecap}
+\usepackage{textcomp}
+%\usepackage{lineno}
+%\linenumbers
+%usepackage{threeparttable}
+\usepackage{array}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tocloft}
+\usepackage{mathptmx}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage[top=2.5cm,bottom=1.25cm,left=3.5cm,right=1.25cm]{geometry}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+%\usepackage{subcaption}
+\usepackage[sort,authoryear,square,sort&compress]{natbib}
+%\usepackage[square,numbers]{natbib}
+%\usepackage{natbib}
+\renewcommand{\bibname}{References}
+\renewcommand{\contentsname}{Table of Contents}
+\usepackage{emptypage}
+\usepackage[nottoc]{tocbibind} % For adding biblography in table of content
+\usepackage[toc,page]{appendix}
+\usepackage{titletoc}
+%\newcommand{\setupname}[1][\chaptername]{
+%\titlecontents{chapter}[0pt]{\vskip{1ex}}{\bfseries #1~\thecontentslabel:\quad}{\bfseries}{\bfseries\hfill\contentspage}[]}
+\usepackage{quotchap} % fancy chapter numbering style
+%\usepackage{titlesec}
+%\titleformat{\chapter}[display]
+%  {\normalfont\huge\bfseries\centering}{\centering\chaptertitlename\ \thechapter}{20pt}{\Huge}
+%\titlespacing*{\chapter} {0pt}{50pt}{40pt}
+
+
+%\bibpunct{\textcolor{blue}{(}}{\textcolor{blue}{)}}
+\usepackage[intoc,refpage]{nomencl} 
+\makenomenclature
+\usepackage{hyperref}
+%\usepackage[colorlinks, citecolor=blue]{hyperref}
+\renewcommand{\pagedeclaration}[1]{\dotfill \hperpage{#1}}
+\usepackage[toc]{glossaries} %add after the \usepackage{hyperref}
+\makeglossaries
+%=================== new command to modify the display Glossary===========
+\newglossarystyle{cstyle}{
+    \glossarystyle{list}
+    \renewcommand*{\glossaryentryfield}[5]{
+        \item[\glsentryitem{##1}\glstarget{##1}{##2}]
+        \hspace{2cm}##3 \glspostdescription\dotfill ##5}
+                   }
+                   %===================   ======================  
+\setglossarystyle{cstyle}
+\renewcommand{\nomname}{List of Symbols}
+%\newcommand{\nm}[3][]{\nomenclature[#1]{#2}{#3}}
+
+%\usepackage[intoc, spanish]{nomencl}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{booktabs,longtable}
+\usepackage{lscape}
+\usepackage[figuresright]{rotating}
+\usepackage{array}
+%\usepackage[table-column-width=1cm]{siunitx}
+
+%%========================adding Fancy header on pages========================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage[ddmmyyyy]{datetime} 
+%\renewcommand{dateseparator}{--}
+\fancyhf{}
+\fancyhead[RE]{\it{\nouppercase{\left}}}
+\fancyhead[LO]{\it{\nouppercase{\right}}}
+\fancyhead[RE]{\thepage}
+%\fancyhead[LE,RO]{\chaptername}
+%\fancyhead[LO]{\leftmark}
+%\fancyhead[RO]{\rightmark}
+\fancyfoot{}
+
+%==============================Adding Sub-subsections level===================
+
+\setcounter{secnumdepth}{3}
+\setcounter{secnumdepth}{3}
+
+% create list of eaquations
+%\newcommand{\listequationsname}{List of Equations}
+%\newlistof{myequations}{equ}{\listequationsname}
+%\newcommand{\myequations}[1]{%
+%\addcontentsline{equ}{myequations}{\protect\numberline{\theequation}#1}\par}
+
+%%========================adding chapter to main File========================
+
+\includeonly{prelim/FrontTitle,prelim/title,prelim/copyright,prelim/declaration, prelim/abstract,prelim/acknowledgement,prelim/dedication,mainpage/chp1, mainpage/chp2}
+
+            %========= Watermark in the background==============
+%\backgroundsetup{contents=\includegraphics{image/iitrlogo1},opacity=0.03,scale=0.3}
+
+\begin{document}
+%====================================Preliminary Pages==========================
+                     
+                        %=============page Number Style==============
+\pagenumbering{roman}
+\pagestyle{plain}
+
+						%=====pages to be include in file========
+\include{prelim/FrontTitle}
+\include{prelim/title}
+\include{prelim/copyright}
+\include{prelim/declaration}
+%\include{prelim/certificate}
+\doublespacing
+\include{prelim/acknowledgement}
+\onehalfspacing
+\include{prelim/abstract}
+\include{prelim/dedication}
+%\include{prelim/approval}
+					
+								
+				%======= toc, Figure, Table ========   
+\onehalfspacing
+\pagestyle{fancy}
+\tableofcontents
+\listoffigures
+\listoftables
+%\listofmyequation
+\printnomenclature[3cm]
+\printglossary[title=List of Abbreviation, type=\acronymtype]
+\cleardoublepage
+
+		%===================Add Main Pages=======================
+					
+\onehalfspacing
+\pagenumbering{arabic}
+\pagestyle{fancy}
+
+\include{mainpage/chp1}
+\include{mainpage/chp2}
+
+		%=================== Appendix =======================
+
+%\appendix
+%\begin{appendices}
+%	\include{mainpage/appendix}
+%\end{appendices}
+
+					%====== References List =====================
+
+%\bibliographystyle{plainnat}
+\singlespacing
+\bibliographystyle{apa-good}
+\bibliography{mybib}
+%\printbibliography
+\end{document}
